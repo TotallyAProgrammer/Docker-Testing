@@ -1,0 +1,24 @@
+{
+  "name": "docker-testing",
+  "version": "1.0.0",
+  "description": "Testing some dockery stuff",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No test needed\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TotallyAProgrammer/Docker-Testing.git"
+  },
+  "author": "Zane Reick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TotallyAProgrammer/Docker-Testing/issues"
+  },
+  "homepage": "https://github.com/TotallyAProgrammer/Docker-Testing#readme"
+}
